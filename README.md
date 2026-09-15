@@ -33,6 +33,7 @@ This was an unofficial browser automation experiment. It did not use a documente
 - [`docs/DECISIONS.md`](docs/DECISIONS.md) — key decisions and why the project was stopped.
 - [`docs/PATCH_HISTORY.md`](docs/PATCH_HISTORY.md) — patch/revision history and lessons.
 - [`docs/MIGRATION_GUIDE.md`](docs/MIGRATION_GUIDE.md) — what to carry into an upstream-repository adoption.
+- [`docs/ARTIFACT_INDEX.md`](docs/ARTIFACT_INDEX.md) — local experimental scripts/artifacts and supersession notes.
 
 ## Final project decision
 
